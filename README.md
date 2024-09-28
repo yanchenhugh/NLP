@@ -1,2 +1,2 @@
 # NLP
-collect useful NLP python codes/modules during the process of learning
+collect useful machine learning python codes/modules during the process of learning
