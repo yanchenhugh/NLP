@@ -3,17 +3,9 @@ Collect useful machine learning python codes/modules
 Selected Projects include:
 
 Supervised Learning | Classification Analysis on Bank Customer Churn Data, Using Scikit-Learn:
-* Apply the random-forest model w/ XGboost and Adaboost.
+* Apply the random-forest model w/ XGboost.
 * Cross-validate the model using Grid Search on hyperparameter values, e.g., maximum depth, subsample ratio and method and learning rate.
 * Evaluate the model performance using accuracy, precision, recall and F1 scores.
-
-NLP, Word2Vec, RNN | Sentiment Analysis of Stock Prediction Texts, Using Pytorch:
-* Text Mining: extract stock predictions from stocktwits.com, using Beautiful Soup & Regular Expression Package
-* Tokenize and vectorize the prediction texts using Word2Vec model, before training an RNN model.
-
-NLP, LLM | USPTO Trademark Product Analysis, Using the GloVe Package:
-* Process large-scale trademark data and categorize the products at a higher granularity using GloVe.
-* Identify the categories that contribute the most to the evolution of the U.S. aggregate productivity, using VAR.
 
 RNN and CNN, Transfer Learning | Dog-Cat Image Classification, Using Pytorch & torchvision:
 * Load and transform the RGB data of dog & cat images into batches.
